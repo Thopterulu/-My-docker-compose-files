@@ -9,7 +9,7 @@ list of docker files that I can use daily
 
 ## os:
 
-- alpine very intresting maybe watch such wow
+- alpine very interesting maybe watch such wow
 
 ## notes for me le dumb
 
